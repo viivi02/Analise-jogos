@@ -56,4 +56,8 @@ O gráfico de barras revela os jogos físicos mais vendidos da história. Entre 
 
 ---
 
-🚀 **Essa análise ajuda a entender as dinâmicas do mercado e como as estratégias das empresas moldaram o sucesso de diferentes plataformas e jogos ao longo dos anos.**
+🚀 **Essa é uma análise simples que ajuda a entender as dinâmicas do mercado e como as estratégias das empresas moldaram o sucesso de diferentes plataformas e jogos ao longo dos anos. Dentro deste repositório está o arquivo que foi feita a tratativa dos dados do csv junto ao arquivo do Power BI**
+
+- [Arquivo Power BI](https://github.com/viivi02/Analise-jogos/blob/4f45906d37076adc5e02b1bd66a669b8648e6698/Analise%20jogos.pbix)
+- [Arquivo em Jupyter notebook para tratativa de dados](https://github.com/viivi02/Analise-jogos/blob/4f45906d37076adc5e02b1bd66a669b8648e6698/Tratamento.ipynb)
+- [Versão Final CSV](https://github.com/viivi02/Analise-jogos/blob/4f45906d37076adc5e02b1bd66a669b8648e6698/vgsales.csv)
