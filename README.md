@@ -1,7 +1,7 @@
 # 📊 Análise de Vendas de Jogos – Storytelling
 
 ## 🎮 Introdução
-O mercado de videogames movimenta bilhões de dólares anualmente, com plataformas e jogos dominando diferentes períodos da história. A análise a seguir explora o comportamento das vendas ao longo dos anos, as plataformas mais bem-sucedidas e os jogos mais vendidos no mercado físico.
+O mercado de videogames movimenta bilhões de dólares anualmente, com plataformas e jogos dominando diferentes períodos da história. A análise a seguir explora o comportamento das vendas ao longo dos anos, as plataformas mais bem-sucedidas e os jogos mais vendidos no mercado físico. Para acessar a explicação da tratativa dos dados localizados no caminho `archive/vgsales.csv`, basta clicar [aqui](https://github.com/viivi02/Analise-jogos/blob/05f9f31f708316ccbec2d881f0b14743ab6d5e8a/TratativaDados.md) e acessar a documentação sobre.
 
 ---
 
